@@ -1,2 +1,9 @@
 # Project-3-Team-collaboration
-This project is created for team collaboration, working hand in hand 👏🏻 we can do much more 
+# About Me  
+
+Name 👨‍💻: MOSES PHIRI 
+
+Short Bio ✍️:  
+I am a passionate learner who enjoys exploring programming, technology, and problem-solving. I believe in continuous improvement and teamwork.  
+Fun Fact 🤓:  
+I can troubleshoot computers faster than I can cook noodles! 🍜💻
