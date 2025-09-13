@@ -1,4 +1,4 @@
-# Project-3-Team-collaboration
+# Project-3-Team-collab
 # About Me  
 
 Name 👨‍💻: MOSES PHIRI 
